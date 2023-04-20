@@ -27,7 +27,7 @@
     "@vanilla-extract/webpack-plugin": "^2.1.5",
     "gatsby": "^4.9.3",
     "gatsby-plugin-image": "^2.9.1",
-    "gatsby-plugin-sharp": "^4.9.1",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-vanilla-extract": "^2.0.1",
     "gatsby-source-filesystem": "^4.9.1",
     "gatsby-theme-contentful-blog": "1.0.0-1",
